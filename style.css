@@ -1,0 +1,18 @@
+form {
+  background-color: #0e6251;
+  width: 300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  box-shadow: 14px 20px 10px 0px #444;
+}
+
+input {
+  padding: 20px;
+  background-color: #f0d575;
+}
+
+body {
+  background-color: #16a085;
+}
